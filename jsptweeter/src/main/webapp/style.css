@@ -1,0 +1,16 @@
+label {
+    width: 12em;
+    display: inline-block;
+}
+
+div {
+    margin: 2px;
+}
+
+span.red {
+    color: red;
+}
+
+span.green {
+    color: green;
+}
