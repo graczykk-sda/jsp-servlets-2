@@ -1,0 +1,28 @@
+label.tweet {
+    width: 12em;
+    display: inline-block;
+}
+
+div {
+    margin: 2px;
+}
+
+div.chmurka {
+    height: 100px;
+    width: 200px;
+    background-color: powderblue;
+    border: lightskyblue solid;
+}
+
+span.red {
+    color: red;
+}
+
+span.green {
+    color: green;
+}
+
+textarea {
+    width: 300px;
+    height: 150px;
+}
